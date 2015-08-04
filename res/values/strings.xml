@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MapMyBus</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="org_select">Select organization</string>
+    <string name="dep_select">Select department</string>
+    <string name="bus_select">Select bus</string>
+
+</resources>
